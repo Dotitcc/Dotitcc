@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Dotit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Amazon PPC Knowledge Base
 
-<!---
-Dotitcc/Dotitcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Archival Portfolio**
+
+This repository serves as my personal knowledge base and proof of expertise in Amazon PPC and FBA strategies.
+
+**For active agency work and client services, please visit my primary profile:** [MasudLabs](https://github.com/MasudLabs)
+
+## Featured Playbooks
+- [Amazon PPC Audit Framework](https://github.com/Dotitcc/amazon-ppc-audit-framework)
+- [FBA Product Launch SOPs](https://github.com/Dotitcc/fba-product-launch-sops)
+- [ACoS Reduction Playbook](https://github.com/Dotitcc/acos-reduction-playbook)
+
+---
+
+*Documented strategies, templates, and tools for Amazon sellers and PPC managers.*
